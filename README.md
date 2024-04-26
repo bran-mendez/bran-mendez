@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bran-mendez
 - 👀 I’m interested in web dev / mobile dev...
-- 🌱 I’m currently learning typescript, nodejs and react...
+- 🌱 I’m currently learning Typescript and React
 
 <!---
 bran-mendez/bran-mendez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
